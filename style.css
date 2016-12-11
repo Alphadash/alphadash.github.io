@@ -1,0 +1,36 @@
+body
+{
+	margin: 5% 10%;
+	max-width: 1000px;
+}
+
+a
+{
+	color: blue;
+	text-decoration: none;
+	margin-right: 50px;
+}
+
+h3
+{
+	margin: 0px;
+}
+
+td
+{
+	padding-top: 15px;
+}
+
+img
+{
+	border-radius: 25px;
+}
+
+.infobox
+{
+	border-radius: 25px;
+	background-color: lightgrey;
+	width: 450px;
+	padding-bottom: 10px;
+	margin: 0 auto;
+}
